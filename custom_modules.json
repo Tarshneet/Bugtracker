@@ -1,0 +1,109 @@
+{
+    "modules": [
+        "Request",
+        "Attendence",
+        "Payroll",
+        "Requests",
+        "Attendance",
+        "Notification",
+        "Employee",
+        "Login",
+        "Authentication",
+        "TA\/DA  Approval",
+        "TA & DA Settings",
+        "Settings",
+        "Attendance Settings",
+        "Payroll Settings",
+        "side bar",
+        "Dashboard"
+    ],
+    "submodules": {
+        "Request": [
+            "Gate Pass",
+            "Missed Punch",
+            "Leave Balance"
+        ],
+        "Attendence": [
+            "Regulatory Docs",
+            "Calendar",
+            "Attendance Summary",
+            "Biometric Attendance",
+            "Face Attendance",
+            "Shift Policy",
+            "Daily Attendance"
+        ],
+        "Payroll": [
+            "Salary Master",
+            "Salary Process",
+            "Payslip",
+            "Adhoc Payments\/Deductions",
+            "Payroll Period",
+            "Adhoc Components",
+            "Adhoc Payments\/Deductions",
+            "Deduction"
+        ],
+        "Requests": [
+            "Leave Approval",
+            "Gate-Pass Approval",
+            "Mis-Punch Approval",
+            "Leave Balance"
+        ],
+        "Attendance": [
+            "Monthly Attendance",
+            "Daily Attendance",
+            "Attendance Summary"
+        ],
+        "Notification": [
+            "Gate-Pass Notification",
+            "Missed Punch Notification",
+            "Leave Notification"
+        ],
+        "Employee": [
+            "Create Employee",
+            "Academic details",
+            "Family Details",
+            "Update Employee"
+        ],
+        "Authentication": [
+            "Login"
+        ],
+        "TA\/DA  Approval": [
+            "Travel Approval",
+            "Advance Approval",
+            "Claim Approval"
+        ],
+        "TA\/DA": [
+            "Reiumburse",
+            "Report"
+        ],
+        "TA & DA Settings": [
+            "Metro City"
+        ],
+        "Settings": [
+            "Automation Settings",
+            "Business Setting",
+            "TADA Setting",
+            "account",
+            "account setting"
+        ],
+        "Attendance Settings": [
+            "Shift Policy",
+            "Leave Policy"
+        ],
+        "Payroll Settings": [
+            "Financial Year",
+            "Salary Allowance",
+            "Adhoc Components"
+        ],
+        "Report": [
+            "Halfday Report",
+            "Bank Sheet Report",
+            "EPS\/PF Report",
+            "Absent Report",
+            "PF EPS Summary Report"
+        ],
+        "Dashboard": [
+            "side bar"
+        ]
+    }
+}
